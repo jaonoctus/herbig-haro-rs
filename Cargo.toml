@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 clap = "4.0.30"
+enquirer = "0.6.1"
